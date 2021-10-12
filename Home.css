@@ -7,10 +7,12 @@
     width:70%;
     text-align: left;
     display: inline-block;
+    background-color: brown;
 }
 .tital2{
     display: flex;
     width: 100%;
+    background-color: blue;
 }
 .tital_text{
     font-size:x-large;
